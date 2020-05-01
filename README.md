@@ -25,6 +25,9 @@
 ### [Taming Big Data with Apache Spark and Python - Hands On!](https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/)
   - [spark_certificate.pdf](/spark_certificate.pdf)
 
+### [Spring Cloud Fundamentals](https://www.udemy.com/course/spring-cloud-fundamentals/)
+  - [spring_cloud_certificate.pdf](/spring_cloud_certificate.pdf)
+
 ### [Cloud Computing Concepts, Part 2](https://www.coursera.org/learn/cloud-computing)
   - [Coursera_UPCOMING.pdf](/Coursera_UPCOMING.pdf)
 
