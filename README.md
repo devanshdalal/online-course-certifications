@@ -22,6 +22,9 @@
 ### [Complete Elasticsearch Masterclass with Logstash and Kibana](https://www.udemy.com/course/complete-elasticsearch-masterclass-with-kibana-and-logstash/)
   - [elasticsearch_certificate.pdf](/elasticsearch_certificate.pdf)
 
+### [Taming Big Data with Apache Spark and Python - Hands On!](https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/)
+  - [spark_certificate.pdf](/spark_certificate.pdf)
+
 ### [Cloud Computing Concepts, Part 2](https://www.coursera.org/learn/cloud-computing)
   - [Coursera_UPCOMING.pdf](/Coursera_UPCOMING.pdf)
 
