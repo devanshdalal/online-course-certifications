@@ -29,6 +29,9 @@
 #### [Spring Cloud Fundamentals](https://www.udemy.com/course/spring-cloud-fundamentals/)
   - [spring_cloud_certificate.pdf](/spring_cloud_certificate.pdf)
 
+#### [Serverless Computing](https://udemy.com/course/aws-serverless-a-complete-introduction)
+  - [aws_serverless_certificate.pdf](/aws_serverless_certificate.pdf)
+
 #### [Cloud Computing Concepts, Part 2](https://www.coursera.org/learn/cloud-computing)
   - [Coursera_UPCOMING.pdf](/Coursera_UPCOMING.pdf)
 
