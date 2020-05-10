@@ -48,6 +48,7 @@
 
 #### [AWS Data Analytics Specialty 2020](https://www.udemy.com/course/aws-big-data/)
   - [aws_big_data_certificate.pdf](/aws_big_data.pdf)
+  - [link](https://udemy.com/certificate/UC-1b034964-a2a7-4222-a928-e40a710cf899/)
 
 #### [Serverless Computing](https://udemy.com/course/aws-serverless-a-complete-introduction)
   - [aws_serverless_certificate.pdf](/aws_serverless_certificate.pdf)
