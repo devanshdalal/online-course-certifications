@@ -1,13 +1,5 @@
 # online-course-certifications
 
-## <u>Web Development</u>
-
-#### [React JS Web Development - The Essentials Bootcamp](https://udemy.com/course/react-js-and-redux-mastering-web-apps)
-  - [react_certificate.pdf](/react_certificate.pdf)
-  - [link](https://www.udemy.com/certificate/UC-3b8e9672-ddd3-418c-9e31-f75ff27e5241)
-
-<HR>
-
 ## <u>Systems</u>
 
 #### [Mastering Amazon Redshift - Development and Administration](https://www.udemy.com/course/redshift-aws-amazon-development-administration-analytics-datawarehouse/)
@@ -50,11 +42,26 @@
   - [aws_big_data_certificate.pdf](/aws_big_data.pdf)
   - [link](https://udemy.com/certificate/UC-1b034964-a2a7-4222-a928-e40a710cf899/)
 
+
+#### [gRPC [Golang] Modern API & Microservices](https://www.udemy.com/course/grpc-golang/)
+  - [grpc_certificate.pdf](/grpc_data.pdf)
+  - [link](https://www.udemy.com/course/grpc-golang/)
+
+
 #### [Serverless Computing](https://udemy.com/course/aws-serverless-a-complete-introduction)
   - [aws_serverless_certificate.pdf](/aws_serverless_certificate.pdf)
 
 #### [Cloud Computing Concepts, Part 2](https://www.coursera.org/learn/cloud-computing)
   - [Coursera_UPCOMING.pdf](/Coursera_UPCOMING.pdf)
+
+<HR>
+
+
+## <u>Web Development</u>
+
+#### [React JS Web Development - The Essentials Bootcamp](https://udemy.com/course/react-js-and-redux-mastering-web-apps)
+  - [react_certificate.pdf](/react_certificate.pdf)
+  - [link](https://www.udemy.com/certificate/UC-3b8e9672-ddd3-418c-9e31-f75ff27e5241)
 
 <HR>
 
