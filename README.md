@@ -44,8 +44,8 @@
 
 
 #### [gRPC [Golang] Modern API & Microservices](https://www.udemy.com/course/grpc-golang/)
-  - [grpc_certificate.pdf](/grpc_data.pdf)
-  - [link](https://www.udemy.com/course/grpc-golang/)
+  - [grpc_certificate.pdf](/grpc_certificate.pdf)
+  - [link](https://udemy.com/certificate/UC-ead312b5-48fe-4ad2-9417-12808e90f44b/)
 
 
 #### [Serverless Computing](https://udemy.com/course/aws-serverless-a-complete-introduction)
