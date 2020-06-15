@@ -26,6 +26,10 @@
 
 ## <u>Cloud Computing</u>
 
+#### [Cloud Computing Concepts, Part 2](https://www.coursera.org/learn/cloud-computing)
+  - [Coursera_UPCOMING.pdf](/Coursera_LTYQV4754MWM.pdf)
+  - [link](https://www.coursera.org/account/accomplishments/certificate/LTYQV4754MWM)
+
 #### [Cloud Computing Concepts, Part 1](https://www.coursera.org/learn/cloud-computing)
   - [Coursera_78KUWUMPCZ3J.pdf](/Coursera_78KUWUMPCZ3J.pdf)
   - [link](https://www.coursera.org/account/accomplishments/records/78KUWUMPCZ3J)
@@ -51,8 +55,6 @@
 #### [Serverless Computing](https://udemy.com/course/aws-serverless-a-complete-introduction)
   - [aws_serverless_certificate.pdf](/aws_serverless_certificate.pdf)
 
-#### [Cloud Computing Concepts, Part 2](https://www.coursera.org/learn/cloud-computing)
-  - [Coursera_UPCOMING.pdf](/Coursera_UPCOMING.pdf)
 
 <HR>
 
