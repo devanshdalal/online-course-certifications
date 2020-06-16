@@ -27,7 +27,7 @@
 ## <u>Cloud Computing</u>
 
 #### [Cloud Computing Concepts, Part 2](https://www.coursera.org/learn/cloud-computing)
-  - [Coursera_UPCOMING.pdf](/Coursera_LTYQV4754MWM.pdf)
+  - [Coursera_LTYQV4754MWM.pdf](/Coursera_LTYQV4754MWM.pdf)
   - [link](https://www.coursera.org/account/accomplishments/certificate/LTYQV4754MWM)
 
 #### [Cloud Computing Concepts, Part 1](https://www.coursera.org/learn/cloud-computing)
