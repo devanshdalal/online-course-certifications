@@ -55,7 +55,6 @@
 #### [Serverless Computing](https://udemy.com/course/aws-serverless-a-complete-introduction)
   - [aws_serverless_certificate.pdf](/aws_serverless_certificate.pdf)
 
-
 <HR>
 
 
@@ -64,6 +63,15 @@
 #### [React JS Web Development - The Essentials Bootcamp](https://udemy.com/course/react-js-and-redux-mastering-web-apps)
   - [react_certificate.pdf](/react_certificate.pdf)
   - [link](https://www.udemy.com/certificate/UC-3b8e9672-ddd3-418c-9e31-f75ff27e5241)
+
+<HR>
+
+
+## <u>Java</u>
+
+#### [ Java Memory Management](https://www.udemy.com/course/java-memory-management/)
+  - [jmm_certificate.pdf](/jmm_certificate.pdf)
+  - [link](https://udemy.com/certificate/UC-c4007f71-f9f3-4ae9-9907-2f266bc6fabc)
 
 <HR>
 
