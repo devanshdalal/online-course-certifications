@@ -58,6 +58,14 @@
 <HR>
 
 
+## <u>Architecture</u>
+
+#### [Software Architecture Case Studies](https://udemy.com/course/software-architecture-case-studies)
+  - [architecture_case_studies_certificate.pdf](/architecture_case_studies_certificate.pdf)
+  - [link](https://udemy.com/certificate/UC-f9cb699e-19dc-4edc-a7d6-d078d88dda2d)
+
+<HR>
+
 ## <u>Web Development</u>
 
 #### [React JS Web Development - The Essentials Bootcamp](https://udemy.com/course/react-js-and-redux-mastering-web-apps)
