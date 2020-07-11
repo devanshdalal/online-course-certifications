@@ -65,7 +65,7 @@
   - [link](https://udemy.com/certificate/UC-f9cb699e-19dc-4edc-a7d6-d078d88dda2d)
 
 #### [Microservices Software Architecture](https://udemy.com/course/microservices-software-architecture-patterns-and-techniques)
-  - [microservices_arch_design_sertificate.pdf](/microservices_arch_design_sertificate.pdf)
+  - [microservices_arch_design_certificate.pdf](/microservices_arch_design_certificate.pdf)
   - [link](https://udemy.com/certificate/UC-527fc6d4-8f69-4a7f-a45d-39f534c0e288/)
 
 <HR>
