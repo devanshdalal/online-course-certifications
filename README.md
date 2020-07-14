@@ -81,9 +81,13 @@
 
 ## <u>Java</u>
 
-#### [ Java Memory Management](https://www.udemy.com/course/java-memory-management/)
+#### [Java Memory Management](https://www.udemy.com/course/java-memory-management/)
   - [jmm_certificate.pdf](/jmm_certificate.pdf)
   - [link](https://udemy.com/certificate/UC-c4007f71-f9f3-4ae9-9907-2f266bc6fabc)
+
+#### [Garbage Collection Algorithms".](https://udemy.com/course/essentials-of-garbage-collectors)
+  - [gc_algorithms_certificate.pdf](/gc_algorithms_certificate.pdf)
+  - [link](https://www.udemy.com/certificate/UC-1d60a908-5215-477c-af21-8355a9a20604)
 
 <HR>
 
