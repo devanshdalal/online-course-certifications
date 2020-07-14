@@ -47,11 +47,6 @@
   - [link](https://udemy.com/certificate/UC-1b034964-a2a7-4222-a928-e40a710cf899/)
 
 
-#### [gRPC [Golang] Modern API & Microservices](https://www.udemy.com/course/grpc-golang/)
-  - [grpc_certificate.pdf](/grpc_certificate.pdf)
-  - [link](https://udemy.com/certificate/UC-ead312b5-48fe-4ad2-9417-12808e90f44b/)
-
-
 #### [Serverless Computing](https://udemy.com/course/aws-serverless-a-complete-introduction)
   - [aws_serverless_certificate.pdf](/aws_serverless_certificate.pdf)
 
@@ -88,6 +83,14 @@
 #### [Garbage Collection Algorithms".](https://udemy.com/course/essentials-of-garbage-collectors)
   - [gc_algorithms_certificate.pdf](/gc_algorithms_certificate.pdf)
   - [link](https://www.udemy.com/certificate/UC-1d60a908-5215-477c-af21-8355a9a20604)
+
+<HR>
+
+## <u>Golang</u>
+
+#### [gRPC [Golang] Modern API & Microservices](https://www.udemy.com/course/grpc-golang/)
+  - [grpc_certificate.pdf](/grpc_certificate.pdf)
+  - [link](https://udemy.com/certificate/UC-ead312b5-48fe-4ad2-9417-12808e90f44b/)
 
 <HR>
 
