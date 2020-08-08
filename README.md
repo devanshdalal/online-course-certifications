@@ -60,7 +60,6 @@
 
 #### [Microservices: Asynchronous Messaging](https://www.linkedin.com/learning/microservices-asynchronous-messaging)
   - [microservices_async_certificate.pdf](/microservices_async_certificate.pdf)
-  - [link](https://udemy.com/certificate/UC-1b034964-a2a7-4222-a928-e40a710cf899/)
 
 <HR>
 
