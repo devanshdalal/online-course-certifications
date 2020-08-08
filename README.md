@@ -24,6 +24,7 @@
 
 #### [Learning Hadoop](https://www.linkedin.com/learning/learning-hadoop-2)
   - [hadoop_certificate.pdf](/hadoop_certificate.pdf)
+  - [link](https://www.linkedin.com/posts/devanshdalal_databasedevelopment-hadoopadministration-activity-6697735892523741184-j7a0)
 
 #### [Presto Essentials](https://www.linkedin.com/learning/presto-essentials-data-science)
   - [presto_essentials_certificate.pdf](/presto_essentials_certificate.pdf)
